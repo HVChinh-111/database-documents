@@ -232,9 +232,6 @@ FROM employees;
 
 → Mỗi cặp `department_id` + `job_id` chỉ xuất hiện một lần duy nhất.
 
-Tuyệt vời, Seamus. Đây là phần **B. Lọc dữ liệu**, bao gồm hai mệnh đề cực kỳ quan trọng trong MySQL: **WHERE** (lọc từng dòng trước khi nhóm dữ liệu) và **HAVING** (lọc sau khi dữ liệu đã được nhóm).
-Tôi sẽ trình bày chi tiết, có ví dụ rõ ràng theo đúng format bạn yêu cầu (A, I, 1, a...).
-
 ---
 
 ## B. Lọc dữ liệu
